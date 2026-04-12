@@ -1,0 +1,13 @@
+{
+  "programming": ["python","javascript","typescript","java","c++","c#","go","rust","php","ruby","swift","kotlin","r","scala","sql","html","css","bash","shell"],
+  "frameworks": ["react","angular","vue","vue.js","node.js","nodejs","express","express.js","django","flask","fastapi","spring","spring boot","next.js","nextjs",".net","dotnet","laravel","rails","ruby on rails","tailwindcss","tailwind","bootstrap","jquery","tensorflow","pytorch","scikit-learn","sklearn","keras","react native","flutter","electron"],
+  "databases": ["mysql","postgresql","postgres","mongodb","redis","elasticsearch","dynamodb","firebase","sqlite","oracle","cassandra","neo4j","mariadb"],
+  "cloud": ["aws","amazon web services","azure","microsoft azure","gcp","google cloud","heroku","vercel","netlify","digitalocean"],
+  "devops": ["docker","kubernetes","k8s","jenkins","github actions","gitlab ci","terraform","ansible","ci/cd","cicd","linux","nginx","apache","grafana","prometheus"],
+  "tools": ["git","github","gitlab","bitbucket","jira","confluence","postman","swagger","webpack","vite","npm","yarn","pip","maven","gradle"],
+  "ai_ml": ["machine learning","deep learning","nlp","natural language processing","computer vision","neural network","reinforcement learning","data science","data analysis","data engineering","mlops","feature engineering","model training"],
+  "design": ["figma","adobe xd","sketch","photoshop","illustrator","ui/ux","ui design","ux design","wireframing","prototyping"],
+  "soft_skills": ["leadership","communication","teamwork","problem solving","critical thinking","project management","agile","scrum","kanban"],
+  "data_tools": ["tableau","power bi","excel","pandas","numpy","matplotlib","seaborn","plotly","spark","apache spark","hadoop","airflow"],
+  "other": ["rest api","restful","graphql","microservices","websocket","oauth","jwt","api design","system design","design patterns"]
+}

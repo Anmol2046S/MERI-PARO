@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+trained_models/*.pkl
+trained_models/*.npz
+trained_models/*.joblib
+.pytest_cache/
+*.egg-info/

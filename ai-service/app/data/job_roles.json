@@ -1,0 +1,62 @@
+{
+  "Full Stack Developer": {
+    "required": ["JavaScript", "React", "Node.js", "SQL", "Git", "HTML", "CSS", "REST API"],
+    "optional": ["TypeScript", "Docker", "AWS", "MongoDB", "GraphQL", "Next.js"],
+    "weight": 1.0
+  },
+  "Frontend Developer": {
+    "required": ["JavaScript", "React", "HTML", "CSS", "Git", "REST API"],
+    "optional": ["TypeScript", "Vue.js", "Angular", "TailwindCSS", "Next.js", "Figma"],
+    "weight": 1.0
+  },
+  "Backend Developer": {
+    "required": ["Node.js", "Python", "SQL", "REST API", "Git", "Docker"],
+    "optional": ["Java", "Go", "Kubernetes", "AWS", "MongoDB", "Redis", "Microservices"],
+    "weight": 1.0
+  },
+  "Data Scientist": {
+    "required": ["Python", "Machine Learning", "SQL", "Data Analysis", "Scikit-learn"],
+    "optional": ["TensorFlow", "PyTorch", "R", "Deep Learning", "NLP", "Tableau"],
+    "weight": 1.0
+  },
+  "ML Engineer": {
+    "required": ["Python", "Machine Learning", "TensorFlow", "Docker", "SQL", "Git"],
+    "optional": ["PyTorch", "Kubernetes", "AWS", "Deep Learning", "NLP", "Scikit-learn"],
+    "weight": 1.0
+  },
+  "DevOps Engineer": {
+    "required": ["Docker", "Kubernetes", "Linux", "CI/CD", "AWS", "Git", "Terraform"],
+    "optional": ["Ansible", "Jenkins", "Python", "Go", "Azure"],
+    "weight": 1.0
+  },
+  "Cloud Architect": {
+    "required": ["AWS", "Docker", "Kubernetes", "Terraform", "Linux", "Microservices"],
+    "optional": ["Azure", "Google Cloud", "Python"],
+    "weight": 1.0
+  },
+  "Mobile Developer": {
+    "required": ["JavaScript", "React Native", "Git", "REST API"],
+    "optional": ["Swift", "Kotlin", "Flutter", "Firebase", "TypeScript"],
+    "weight": 1.0
+  },
+  "UI/UX Designer": {
+    "required": ["Figma", "HTML", "CSS"],
+    "optional": ["Adobe XD", "Sketch", "JavaScript", "React"],
+    "weight": 1.0
+  },
+  "Data Analyst": {
+    "required": ["SQL", "Python", "Data Analysis", "Excel"],
+    "optional": ["Tableau", "Power BI", "R", "Machine Learning"],
+    "weight": 1.0
+  },
+  "AI Engineer": {
+    "required": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "NLP", "Docker"],
+    "optional": ["PyTorch", "Computer Vision", "AWS", "Kubernetes", "FastAPI"],
+    "weight": 1.0
+  },
+  "QA Engineer": {
+    "required": ["Testing", "Git", "CI/CD"],
+    "optional": ["Python", "JavaScript", "Docker", "JIRA", "Postman"],
+    "weight": 0.8
+  }
+}

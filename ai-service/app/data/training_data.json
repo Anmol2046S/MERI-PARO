@@ -1,0 +1,567 @@
+{
+    "Full Stack Developer": [
+        "Git CSS HTML Problem Solving aws docker ci/cd",
+        "git css html problem solving agile software development lifecycle team player",
+        "Git CSS HTML Problem Solving aws docker ci/cd git css html problem solving agile software development lifecycle team player full stack developer"
+    ],
+    "Frontend Developer": [
+        "Git CSS HTML Problem Solving aws docker ci/cd",
+        "git css html problem solving agile software development lifecycle team player",
+        "Git CSS HTML Problem Solving aws docker ci/cd git css html problem solving agile software development lifecycle team player frontend developer"
+    ],
+    "Backend Developer": [
+        "Node.js CSS HTML Git REST API Problem Solving SQL aws docker ci/cd",
+        "node.js css html git rest api problem solving sql agile software development lifecycle team player",
+        "Node.js CSS HTML Git REST API Problem Solving SQL aws docker ci/cd node.js css html git rest api problem solving sql agile software development lifecycle team player backend developer"
+    ],
+    "React Developer": [
+        "React CSS HTML Git Problem Solving JavaScript aws docker ci/cd",
+        "react css html git problem solving javascript agile software development lifecycle team player",
+        "React CSS HTML Git Problem Solving JavaScript aws docker ci/cd react css html git problem solving javascript agile software development lifecycle team player react developer"
+    ],
+    "Angular Developer": [
+        "CSS HTML TypeScript Git Angular Problem Solving JavaScript aws docker ci/cd",
+        "css html typescript git angular problem solving javascript agile software development lifecycle team player",
+        "CSS HTML TypeScript Git Angular Problem Solving JavaScript aws docker ci/cd css html typescript git angular problem solving javascript agile software development lifecycle team player angular developer"
+    ],
+    "Vue.js Developer": [
+        "CSS HTML Git Vue.js Problem Solving JavaScript aws docker ci/cd",
+        "css html git vue.js problem solving javascript agile software development lifecycle team player",
+        "CSS HTML Git Vue.js Problem Solving JavaScript aws docker ci/cd css html git vue.js problem solving javascript agile software development lifecycle team player vue.js developer"
+    ],
+    "Node.js Developer": [
+        "Node.js CSS HTML Git REST API Problem Solving SQL aws docker ci/cd",
+        "node.js css html git rest api problem solving sql agile software development lifecycle team player",
+        "Node.js CSS HTML Git REST API Problem Solving SQL aws docker ci/cd node.js css html git rest api problem solving sql agile software development lifecycle team player node.js developer"
+    ],
+    "PHP Developer": [
+        "CSS HTML PHP MySQL Git Problem Solving aws docker ci/cd",
+        "css html php mysql git problem solving agile software development lifecycle team player",
+        "CSS HTML PHP MySQL Git Problem Solving aws docker ci/cd css html php mysql git problem solving agile software development lifecycle team player php developer"
+    ],
+    "Ruby on Rails Developer": [
+        "Git CSS HTML Problem Solving aws docker ci/cd",
+        "git css html problem solving agile software development lifecycle team player",
+        "Git CSS HTML Problem Solving aws docker ci/cd git css html problem solving agile software development lifecycle team player ruby on rails developer"
+    ],
+    "Python Web Developer": [
+        "Python CSS HTML Git Django Problem Solving SQL aws docker ci/cd",
+        "python css html git django problem solving sql agile software development lifecycle team player",
+        "Python CSS HTML Git Django Problem Solving SQL aws docker ci/cd python css html git django problem solving sql agile software development lifecycle team player python web developer"
+    ],
+    "Django Developer": [
+        "Python CSS HTML Git Django Problem Solving SQL aws docker ci/cd",
+        "python css html git django problem solving sql agile software development lifecycle team player",
+        "Python CSS HTML Git Django Problem Solving SQL aws docker ci/cd python css html git django problem solving sql agile software development lifecycle team player django developer"
+    ],
+    "Go Developer": [
+        "Git CSS HTML Problem Solving aws docker ci/cd",
+        "git css html problem solving agile software development lifecycle team player",
+        "Git CSS HTML Problem Solving aws docker ci/cd git css html problem solving agile software development lifecycle team player go developer"
+    ],
+    "Mobile Developer": [
+        "Kotlin Git REST API Problem Solving Swift JavaScript firebase graphql ci/cd",
+        "kotlin git rest api problem solving swift javascript agile software development lifecycle team player",
+        "Kotlin Git REST API Problem Solving Swift JavaScript firebase graphql ci/cd kotlin git rest api problem solving swift javascript agile software development lifecycle team player mobile developer"
+    ],
+    "iOS Developer": [
+        "Git REST API Swift Problem Solving firebase graphql ci/cd",
+        "git rest api swift problem solving agile software development lifecycle team player",
+        "Git REST API Swift Problem Solving firebase graphql ci/cd git rest api swift problem solving agile software development lifecycle team player ios developer"
+    ],
+    "Android Developer": [
+        "Kotlin Git REST API Problem Solving firebase graphql ci/cd",
+        "kotlin git rest api problem solving agile software development lifecycle team player",
+        "Kotlin Git REST API Problem Solving firebase graphql ci/cd kotlin git rest api problem solving agile software development lifecycle team player android developer"
+    ],
+    "Flutter Developer": [
+        "Git REST API JavaScript Problem Solving firebase graphql ci/cd",
+        "git rest api javascript problem solving agile software development lifecycle team player",
+        "Git REST API JavaScript Problem Solving firebase graphql ci/cd git rest api javascript problem solving agile software development lifecycle team player flutter developer"
+    ],
+    "React Native Developer": [
+        "React Git REST API Problem Solving JavaScript firebase graphql ci/cd",
+        "react git rest api problem solving javascript agile software development lifecycle team player",
+        "React Git REST API Problem Solving JavaScript firebase graphql ci/cd react git rest api problem solving javascript agile software development lifecycle team player react native developer"
+    ],
+    "Swift Developer": [
+        "Git REST API Swift Problem Solving firebase graphql ci/cd",
+        "git rest api swift problem solving agile software development lifecycle team player",
+        "Git REST API Swift Problem Solving firebase graphql ci/cd git rest api swift problem solving agile software development lifecycle team player swift developer"
+    ],
+    "Kotlin Developer": [
+        "Kotlin Git REST API Problem Solving firebase graphql ci/cd",
+        "kotlin git rest api problem solving agile software development lifecycle team player",
+        "Kotlin Git REST API Problem Solving firebase graphql ci/cd kotlin git rest api problem solving agile software development lifecycle team player kotlin developer"
+    ],
+    "Mobile Architect": [
+        "Kotlin REST API Problem Solving Swift JavaScript firebase graphql ci/cd",
+        "kotlin rest api problem solving swift javascript agile software development lifecycle team player",
+        "Kotlin REST API Problem Solving Swift JavaScript firebase graphql ci/cd kotlin rest api problem solving swift javascript agile software development lifecycle team player mobile architect"
+    ],
+    "Data Scientist": [
+        "Machine Learning Python Problem Solving Data Analysis SQL Scikit-learn tensorflow aws deep learning pytorch",
+        "machine learning python problem solving data analysis sql scikit-learn agile software development lifecycle team player",
+        "Machine Learning Python Problem Solving Data Analysis SQL Scikit-learn tensorflow aws deep learning pytorch machine learning python problem solving data analysis sql scikit-learn agile software development lifecycle team player data scientist"
+    ],
+    "Data Analyst": [
+        "Data Analysis Python SQL Problem Solving power bi excel tableau",
+        "data analysis python sql problem solving agile software development lifecycle team player",
+        "Data Analysis Python SQL Problem Solving power bi excel tableau data analysis python sql problem solving agile software development lifecycle team player data analyst"
+    ],
+    "Data Engineer": [
+        "Python Git Problem Solving Data Analysis SQL ",
+        "python git problem solving data analysis sql agile software development lifecycle team player",
+        "Python Git Problem Solving Data Analysis SQL  python git problem solving data analysis sql agile software development lifecycle team player data engineer"
+    ],
+    "Business Intelligence Analyst": [
+        "Data Analysis Python SQL Problem Solving power bi excel tableau",
+        "data analysis python sql problem solving agile software development lifecycle team player",
+        "Data Analysis Python SQL Problem Solving power bi excel tableau data analysis python sql problem solving agile software development lifecycle team player business intelligence analyst"
+    ],
+    "Machine Learning Engineer": [
+        "Machine Learning Python Git Problem Solving Data Analysis SQL Scikit-learn tensorflow aws deep learning pytorch",
+        "machine learning python git problem solving data analysis sql scikit-learn agile software development lifecycle team player",
+        "Machine Learning Python Git Problem Solving Data Analysis SQL Scikit-learn tensorflow aws deep learning pytorch machine learning python git problem solving data analysis sql scikit-learn agile software development lifecycle team player machine learning engineer"
+    ],
+    "Deep Learning Engineer": [
+        "Python Git Problem Solving Data Analysis SQL ",
+        "python git problem solving data analysis sql agile software development lifecycle team player",
+        "Python Git Problem Solving Data Analysis SQL  python git problem solving data analysis sql agile software development lifecycle team player deep learning engineer"
+    ],
+    "NLP Engineer": [
+        "Python Git Problem Solving Data Analysis SQL ",
+        "python git problem solving data analysis sql agile software development lifecycle team player",
+        "Python Git Problem Solving Data Analysis SQL  python git problem solving data analysis sql agile software development lifecycle team player nlp engineer"
+    ],
+    "Computer Vision Engineer": [
+        "Python Git Problem Solving Data Analysis SQL ",
+        "python git problem solving data analysis sql agile software development lifecycle team player",
+        "Python Git Problem Solving Data Analysis SQL  python git problem solving data analysis sql agile software development lifecycle team player computer vision engineer"
+    ],
+    "AI Engineer": [
+        "Machine Learning Python Git Problem Solving Data Analysis SQL Scikit-learn tensorflow aws deep learning pytorch",
+        "machine learning python git problem solving data analysis sql scikit-learn agile software development lifecycle team player",
+        "Machine Learning Python Git Problem Solving Data Analysis SQL Scikit-learn tensorflow aws deep learning pytorch machine learning python git problem solving data analysis sql scikit-learn agile software development lifecycle team player ai engineer"
+    ],
+    "Big Data Engineer": [
+        "Python Git Problem Solving Data Analysis SQL ",
+        "python git problem solving data analysis sql agile software development lifecycle team player",
+        "Python Git Problem Solving Data Analysis SQL  python git problem solving data analysis sql agile software development lifecycle team player big data engineer"
+    ],
+    "Data Analytics Manager": [
+        "Data Analysis Python SQL Problem Solving ",
+        "data analysis python sql problem solving agile software development lifecycle team player",
+        "Data Analysis Python SQL Problem Solving  data analysis python sql problem solving agile software development lifecycle team player data analytics manager"
+    ],
+    "Data Architect": [
+        "Data Analysis Python SQL Problem Solving ",
+        "data analysis python sql problem solving agile software development lifecycle team player",
+        "Data Analysis Python SQL Problem Solving  data analysis python sql problem solving agile software development lifecycle team player data architect"
+    ],
+    "Quantitative Analyst": [
+        "Data Analysis Python SQL Problem Solving power bi excel tableau",
+        "data analysis python sql problem solving agile software development lifecycle team player",
+        "Data Analysis Python SQL Problem Solving power bi excel tableau data analysis python sql problem solving agile software development lifecycle team player quantitative analyst"
+    ],
+    "Marketing Data Analyst": [
+        "Data Analysis Python SQL Problem Solving power bi excel tableau",
+        "data analysis python sql problem solving agile software development lifecycle team player",
+        "Data Analysis Python SQL Problem Solving power bi excel tableau data analysis python sql problem solving agile software development lifecycle team player marketing data analyst"
+    ],
+    "Predictive Modeler": [
+        "Data Analysis Python SQL Problem Solving ",
+        "data analysis python sql problem solving agile software development lifecycle team player",
+        "Data Analysis Python SQL Problem Solving  data analysis python sql problem solving agile software development lifecycle team player predictive modeler"
+    ],
+    "DevOps Engineer": [
+        "AWS Jenkins Git Docker Linux Problem Solving CI/CD scripting azure google cloud",
+        "aws jenkins git docker linux problem solving ci/cd agile software development lifecycle team player",
+        "AWS Jenkins Git Docker Linux Problem Solving CI/CD scripting azure google cloud aws jenkins git docker linux problem solving ci/cd agile software development lifecycle team player devops engineer"
+    ],
+    "Cloud Architect": [
+        "AWS Docker Linux Problem Solving Kubernetes Terraform scripting azure google cloud",
+        "aws docker linux problem solving kubernetes terraform agile software development lifecycle team player",
+        "AWS Docker Linux Problem Solving Kubernetes Terraform scripting azure google cloud aws docker linux problem solving kubernetes terraform agile software development lifecycle team player cloud architect"
+    ],
+    "Cloud Engineer": [
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud",
+        "aws git docker linux problem solving agile software development lifecycle team player",
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud aws git docker linux problem solving agile software development lifecycle team player cloud engineer"
+    ],
+    "Site Reliability Engineer": [
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud",
+        "aws git docker linux problem solving agile software development lifecycle team player",
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud aws git docker linux problem solving agile software development lifecycle team player site reliability engineer"
+    ],
+    "AWS Solutions Architect": [
+        "AWS Docker Linux Problem Solving Kubernetes Terraform scripting azure google cloud",
+        "aws docker linux problem solving kubernetes terraform agile software development lifecycle team player",
+        "AWS Docker Linux Problem Solving Kubernetes Terraform scripting azure google cloud aws docker linux problem solving kubernetes terraform agile software development lifecycle team player aws solutions architect"
+    ],
+    "Azure Cloud Engineer": [
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud",
+        "aws git docker linux problem solving agile software development lifecycle team player",
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud aws git docker linux problem solving agile software development lifecycle team player azure cloud engineer"
+    ],
+    "GCP Engineer": [
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud",
+        "aws git docker linux problem solving agile software development lifecycle team player",
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud aws git docker linux problem solving agile software development lifecycle team player gcp engineer"
+    ],
+    "Infrastructure Engineer": [
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud",
+        "aws git docker linux problem solving agile software development lifecycle team player",
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud aws git docker linux problem solving agile software development lifecycle team player infrastructure engineer"
+    ],
+    "Platform Engineer": [
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud",
+        "aws git docker linux problem solving agile software development lifecycle team player",
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud aws git docker linux problem solving agile software development lifecycle team player platform engineer"
+    ],
+    "Kubernetes Administrator": [
+        "AWS Docker Linux Problem Solving Kubernetes Terraform scripting azure google cloud",
+        "aws docker linux problem solving kubernetes terraform agile software development lifecycle team player",
+        "AWS Docker Linux Problem Solving Kubernetes Terraform scripting azure google cloud aws docker linux problem solving kubernetes terraform agile software development lifecycle team player kubernetes administrator"
+    ],
+    "Build Engineer": [
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud",
+        "aws git docker linux problem solving agile software development lifecycle team player",
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud aws git docker linux problem solving agile software development lifecycle team player build engineer"
+    ],
+    "Release Manager": [
+        "AWS Docker Linux Problem Solving scripting azure google cloud",
+        "aws docker linux problem solving agile software development lifecycle team player",
+        "AWS Docker Linux Problem Solving scripting azure google cloud aws docker linux problem solving agile software development lifecycle team player release manager"
+    ],
+    "Network Engineer": [
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud",
+        "aws git docker linux problem solving agile software development lifecycle team player",
+        "AWS Git Docker Linux Problem Solving scripting azure google cloud aws git docker linux problem solving agile software development lifecycle team player network engineer"
+    ],
+    "Cybersecurity Analyst": [
+        "Linux Communication Problem Solving aws docker python c++",
+        "linux communication problem solving agile software development lifecycle team player",
+        "Linux Communication Problem Solving aws docker python c++ linux communication problem solving agile software development lifecycle team player cybersecurity analyst"
+    ],
+    "Security Engineer": [
+        "Git Linux Communication Problem Solving aws docker python c++",
+        "git linux communication problem solving agile software development lifecycle team player",
+        "Git Linux Communication Problem Solving aws docker python c++ git linux communication problem solving agile software development lifecycle team player security engineer"
+    ],
+    "Penetration Tester": [
+        "Linux Communication Problem Solving aws docker python c++",
+        "linux communication problem solving agile software development lifecycle team player",
+        "Linux Communication Problem Solving aws docker python c++ linux communication problem solving agile software development lifecycle team player penetration tester"
+    ],
+    "Information Security Manager": [
+        "Linux Communication Problem Solving aws docker python c++",
+        "linux communication problem solving agile software development lifecycle team player",
+        "Linux Communication Problem Solving aws docker python c++ linux communication problem solving agile software development lifecycle team player information security manager"
+    ],
+    "Security Architect": [
+        "Linux Communication Problem Solving aws docker python c++",
+        "linux communication problem solving agile software development lifecycle team player",
+        "Linux Communication Problem Solving aws docker python c++ linux communication problem solving agile software development lifecycle team player security architect"
+    ],
+    "Ethical Hacker": [
+        "Linux Communication Problem Solving aws docker python c++",
+        "linux communication problem solving agile software development lifecycle team player",
+        "Linux Communication Problem Solving aws docker python c++ linux communication problem solving agile software development lifecycle team player ethical hacker"
+    ],
+    "Cloud Security Engineer": [
+        "Git Linux Communication Problem Solving aws docker python c++",
+        "git linux communication problem solving agile software development lifecycle team player",
+        "Git Linux Communication Problem Solving aws docker python c++ git linux communication problem solving agile software development lifecycle team player cloud security engineer"
+    ],
+    "Application Security Engineer": [
+        "Git Linux Communication Problem Solving aws docker python c++",
+        "git linux communication problem solving agile software development lifecycle team player",
+        "Git Linux Communication Problem Solving aws docker python c++ git linux communication problem solving agile software development lifecycle team player application security engineer"
+    ],
+    "Incident Responder": [
+        "Linux Communication Problem Solving aws docker python c++",
+        "linux communication problem solving agile software development lifecycle team player",
+        "Linux Communication Problem Solving aws docker python c++ linux communication problem solving agile software development lifecycle team player incident responder"
+    ],
+    "Cryptography Engineer": [
+        "Git Linux Communication Problem Solving aws docker python c++",
+        "git linux communication problem solving agile software development lifecycle team player",
+        "Git Linux Communication Problem Solving aws docker python c++ git linux communication problem solving agile software development lifecycle team player cryptography engineer"
+    ],
+    "Forensics Investigator": [
+        "Linux Communication Problem Solving aws docker python c++",
+        "linux communication problem solving agile software development lifecycle team player",
+        "Linux Communication Problem Solving aws docker python c++ linux communication problem solving agile software development lifecycle team player forensics investigator"
+    ],
+    "UI/UX Designer": [
+        "Figma UI/UX Design Communication Problem Solving ",
+        "figma ui/ux design communication problem solving agile software development lifecycle team player",
+        "Figma UI/UX Design Communication Problem Solving  figma ui/ux design communication problem solving agile software development lifecycle team player ui/ux designer"
+    ],
+    "Product Designer": [
+        "Figma UI/UX Design Communication Problem Solving ",
+        "figma ui/ux design communication problem solving agile software development lifecycle team player",
+        "Figma UI/UX Design Communication Problem Solving  figma ui/ux design communication problem solving agile software development lifecycle team player product designer"
+    ],
+    "UX Researcher": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player ux researcher"
+    ],
+    "UI Developer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player ui developer"
+    ],
+    "Graphic Designer": [
+        "Figma UI/UX Design Communication Problem Solving ",
+        "figma ui/ux design communication problem solving agile software development lifecycle team player",
+        "Figma UI/UX Design Communication Problem Solving  figma ui/ux design communication problem solving agile software development lifecycle team player graphic designer"
+    ],
+    "Interaction Designer": [
+        "Figma UI/UX Design Communication Problem Solving ",
+        "figma ui/ux design communication problem solving agile software development lifecycle team player",
+        "Figma UI/UX Design Communication Problem Solving  figma ui/ux design communication problem solving agile software development lifecycle team player interaction designer"
+    ],
+    "Visual Designer": [
+        "Figma UI/UX Design Communication Problem Solving ",
+        "figma ui/ux design communication problem solving agile software development lifecycle team player",
+        "Figma UI/UX Design Communication Problem Solving  figma ui/ux design communication problem solving agile software development lifecycle team player visual designer"
+    ],
+    "Creative Director": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player creative director"
+    ],
+    "Web Designer": [
+        "Figma UI/UX Design Communication Problem Solving ",
+        "figma ui/ux design communication problem solving agile software development lifecycle team player",
+        "Figma UI/UX Design Communication Problem Solving  figma ui/ux design communication problem solving agile software development lifecycle team player web designer"
+    ],
+    "QA Engineer": [
+        "JIRA Agile Git Communication Problem Solving postman selenium",
+        "jira agile git communication problem solving agile software development lifecycle team player",
+        "JIRA Agile Git Communication Problem Solving postman selenium jira agile git communication problem solving agile software development lifecycle team player qa engineer"
+    ],
+    "Automation Tester": [
+        "Python JIRA Agile CI/CD Communication Problem Solving JavaScript postman selenium",
+        "python jira agile ci/cd communication problem solving javascript agile software development lifecycle team player",
+        "Python JIRA Agile CI/CD Communication Problem Solving JavaScript postman selenium python jira agile ci/cd communication problem solving javascript agile software development lifecycle team player automation tester"
+    ],
+    "Manual Tester": [
+        "JIRA Agile Communication Problem Solving postman selenium",
+        "jira agile communication problem solving agile software development lifecycle team player",
+        "JIRA Agile Communication Problem Solving postman selenium jira agile communication problem solving agile software development lifecycle team player manual tester"
+    ],
+    "SDET": [
+        "Python JIRA Agile CI/CD Communication Problem Solving JavaScript postman selenium",
+        "python jira agile ci/cd communication problem solving javascript agile software development lifecycle team player",
+        "Python JIRA Agile CI/CD Communication Problem Solving JavaScript postman selenium python jira agile ci/cd communication problem solving javascript agile software development lifecycle team player sdet"
+    ],
+    "Performance Test Engineer": [
+        "JIRA Agile Git Communication Problem Solving postman selenium",
+        "jira agile git communication problem solving agile software development lifecycle team player",
+        "JIRA Agile Git Communication Problem Solving postman selenium jira agile git communication problem solving agile software development lifecycle team player performance test engineer"
+    ],
+    "Quality Assurance Manager": [
+        "JIRA Agile Communication Problem Solving postman selenium",
+        "jira agile communication problem solving agile software development lifecycle team player",
+        "JIRA Agile Communication Problem Solving postman selenium jira agile communication problem solving agile software development lifecycle team player quality assurance manager"
+    ],
+    "Mobile QA Automation Engineer": [
+        "Python JIRA Agile Git CI/CD Communication Problem Solving JavaScript postman selenium",
+        "python jira agile git ci/cd communication problem solving javascript agile software development lifecycle team player",
+        "Python JIRA Agile Git CI/CD Communication Problem Solving JavaScript postman selenium python jira agile git ci/cd communication problem solving javascript agile software development lifecycle team player mobile qa automation engineer"
+    ],
+    "Product Manager": [
+        "Leadership JIRA Agile Communication Problem Solving Scrum ",
+        "leadership jira agile communication problem solving scrum agile software development lifecycle team player",
+        "Leadership JIRA Agile Communication Problem Solving Scrum  leadership jira agile communication problem solving scrum agile software development lifecycle team player product manager"
+    ],
+    "Scrum Master": [
+        "Leadership JIRA Agile Communication Problem Solving Scrum ",
+        "leadership jira agile communication problem solving scrum agile software development lifecycle team player",
+        "Leadership JIRA Agile Communication Problem Solving Scrum  leadership jira agile communication problem solving scrum agile software development lifecycle team player scrum master"
+    ],
+    "Agile Coach": [
+        "Leadership JIRA Agile Communication Problem Solving Scrum ",
+        "leadership jira agile communication problem solving scrum agile software development lifecycle team player",
+        "Leadership JIRA Agile Communication Problem Solving Scrum  leadership jira agile communication problem solving scrum agile software development lifecycle team player agile coach"
+    ],
+    "Technical Product Manager": [
+        "Leadership JIRA Agile Communication Problem Solving Scrum ",
+        "leadership jira agile communication problem solving scrum agile software development lifecycle team player",
+        "Leadership JIRA Agile Communication Problem Solving Scrum  leadership jira agile communication problem solving scrum agile software development lifecycle team player technical product manager"
+    ],
+    "Product Owner": [
+        "Leadership JIRA Agile Communication Problem Solving Scrum ",
+        "leadership jira agile communication problem solving scrum agile software development lifecycle team player",
+        "Leadership JIRA Agile Communication Problem Solving Scrum  leadership jira agile communication problem solving scrum agile software development lifecycle team player product owner"
+    ],
+    "Business Analyst": [
+        "Leadership JIRA Agile Communication Problem Solving Scrum ",
+        "leadership jira agile communication problem solving scrum agile software development lifecycle team player",
+        "Leadership JIRA Agile Communication Problem Solving Scrum  leadership jira agile communication problem solving scrum agile software development lifecycle team player business analyst"
+    ],
+    "Technical Business Analyst": [
+        "Leadership JIRA Agile Communication Problem Solving Scrum ",
+        "leadership jira agile communication problem solving scrum agile software development lifecycle team player",
+        "Leadership JIRA Agile Communication Problem Solving Scrum  leadership jira agile communication problem solving scrum agile software development lifecycle team player technical business analyst"
+    ],
+    "Project Manager": [
+        "Leadership JIRA Agile Communication Problem Solving Scrum ",
+        "leadership jira agile communication problem solving scrum agile software development lifecycle team player",
+        "Leadership JIRA Agile Communication Problem Solving Scrum  leadership jira agile communication problem solving scrum agile software development lifecycle team player project manager"
+    ],
+    "Salesforce Developer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player salesforce developer"
+    ],
+    "Salesforce Administrator": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player salesforce administrator"
+    ],
+    "SAP Consultant": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player sap consultant"
+    ],
+    "Workday Consultant": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player workday consultant"
+    ],
+    "ServiceNow Developer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player servicenow developer"
+    ],
+    "ERP Analyst": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player erp analyst"
+    ],
+    "SharePoint Developer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player sharepoint developer"
+    ],
+    "Game Developer": [
+        "Unity C# Git Problem Solving C++ ",
+        "unity c# git problem solving c++ agile software development lifecycle team player",
+        "Unity C# Git Problem Solving C++  unity c# git problem solving c++ agile software development lifecycle team player game developer"
+    ],
+    "Unity Developer": [
+        "Unity C# Git Problem Solving C++ ",
+        "unity c# git problem solving c++ agile software development lifecycle team player",
+        "Unity C# Git Problem Solving C++  unity c# git problem solving c++ agile software development lifecycle team player unity developer"
+    ],
+    "Unreal Engine Developer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player unreal engine developer"
+    ],
+    "AR/VR Developer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player ar/vr developer"
+    ],
+    "Technical Artist": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player technical artist"
+    ],
+    "Game Designer": [
+        "Unity UI/UX Design C# Figma Communication Problem Solving C++ ",
+        "unity ui/ux design c# figma communication problem solving c++ agile software development lifecycle team player",
+        "Unity UI/UX Design C# Figma Communication Problem Solving C++  unity ui/ux design c# figma communication problem solving c++ agile software development lifecycle team player game designer"
+    ],
+    "3D Generalist": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player 3d generalist"
+    ],
+    "Blockchain Developer": [
+        "Solidity Git Web3.js Problem Solving JavaScript ",
+        "solidity git web3.js problem solving javascript agile software development lifecycle team player",
+        "Solidity Git Web3.js Problem Solving JavaScript  solidity git web3.js problem solving javascript agile software development lifecycle team player blockchain developer"
+    ],
+    "Smart Contract Developer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player smart contract developer"
+    ],
+    "Web3 Engineer": [
+        "Solidity Git Web3.js Problem Solving JavaScript ",
+        "solidity git web3.js problem solving javascript agile software development lifecycle team player",
+        "Solidity Git Web3.js Problem Solving JavaScript  solidity git web3.js problem solving javascript agile software development lifecycle team player web3 engineer"
+    ],
+    "IoT Engineer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player iot engineer"
+    ],
+    "Robotics Engineer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player robotics engineer"
+    ],
+    "Embedded Systems Engineer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player embedded systems engineer"
+    ],
+    "Database Administrator": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player database administrator"
+    ],
+    "System Administrator": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player system administrator"
+    ],
+    "Linux Administrator": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player linux administrator"
+    ],
+    "Windows Server Administrator": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player windows server administrator"
+    ],
+    "Storage Engineer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player storage engineer"
+    ],
+    "SQL Developer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player sql developer"
+    ],
+    "Developer Advocate": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player developer advocate"
+    ],
+    "Developer Relations Engineer": [
+        "Git Problem Solving ",
+        "git problem solving agile software development lifecycle team player",
+        "Git Problem Solving  git problem solving agile software development lifecycle team player developer relations engineer"
+    ],
+    "Technical Writer": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player technical writer"
+    ],
+    "Documentation Manager": [
+        "Problem Solving ",
+        "problem solving agile software development lifecycle team player",
+        "Problem Solving  problem solving agile software development lifecycle team player documentation manager"
+    ]
+}
